@@ -10,9 +10,9 @@ So, to pursue my goal I am following computer science curriculum which is develo
 Hopefully I can complete all of their course. Below is the course that I have completed.
 
 ## List of Course
-- PY4E: Python for Everybody
-- MIT6001x: Introduction to Computer Science and Programming Using Python 
-- How To Code: Simple Data
+- [PY4E: Python for Everybody](https://github.com/nicol4us/nicol4us/blob/main/README.md#python-for-everybody)
+- [MIT6001x: Introduction to Computer Science and Programming Using Python](https://github.com/nicol4us/nicol4us/blob/main/README.md#mit6001x-introduction-to-computer-science-and-programming-using-python) 
+- [How To Code: Simple Data](https://github.com/nicol4us/nicol4us/blob/main/README.md#how-to-code-simple-data)
 
 ### Python For Everybody
 This is the intro course according from  [OSSU](https://github.com/ossu/computer-science). This course is great for introduction. You can find the link [here](https://www.py4e.com/). The material lesson is excellent. They have video, very good handout to read and grade assignment. 
